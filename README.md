@@ -4,11 +4,11 @@ lecture will build on the work done in the previous assignment(s).  Ultimately, 
 presented in Intermediate Software Development.
 
 ## Author
-[Your name]
+Meng Wang
 
 ## Module
-[use this section to list the module number and general topic of the demonstration.]
+Module 1 - Classes
 
 ## Demonstration
-[use this section to list notes that may help when referring back to the demonstration.]
+[use this section to list notes that may help when referring back to the demonstration.]Demonstration 1 - 
 
